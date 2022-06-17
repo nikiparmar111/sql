@@ -1,4 +1,4 @@
-***basic****
+--basic
 
 CREATE PROCEDURE SelectCustomerstabledata 
 AS 
